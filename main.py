@@ -2,7 +2,6 @@ a = int(input())
 b = 0
 c = 2
 lista = []
-
 while b < a:
     d = 0
     for i in range(2, c+1):
