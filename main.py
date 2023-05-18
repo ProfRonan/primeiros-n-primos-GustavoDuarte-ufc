@@ -11,4 +11,7 @@ while b < a:
         lista.append(c)
         b += 1
     c += 1
-print(lista)
+r = 0
+while r < a:
+    print(lista[r])
+    r+=1
